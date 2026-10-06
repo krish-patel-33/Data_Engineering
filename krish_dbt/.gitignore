@@ -1,0 +1,6 @@
+.venv/
+.env
+krish_dbt/profiles.yml
+krish_dbt/target/
+krish_dbt/logs/
+krish_dbt/dbt_packages/
