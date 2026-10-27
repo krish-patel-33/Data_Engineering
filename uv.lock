@@ -415,7 +415,7 @@ pyarrow = [
 ]
 
 [[package]]
-name = "dbt"
+name = "krish-dbt"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [

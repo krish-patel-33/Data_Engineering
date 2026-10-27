@@ -1,5 +1,5 @@
 [project]
-name = "dbt"
+name = "krish-dbt"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -11,9 +11,6 @@ dependencies = [
     "dbt-core>=1.12.5",
     "dbt-databricks>=1.12.6",
 ]
-
-[project.scripts]
-dbt = "dbt.cli.main:cli"
 
 [build-system]
 requires = ["uv_build>=0.12.3,<0.13.0"]
