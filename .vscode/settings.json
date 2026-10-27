@@ -1,0 +1,4 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\krish\\.venvs\\dbt\\Scripts\\python.exe",
+    "dbt.dbtPythonPathOverride": "C:\\Users\\krish\\.venvs\\dbt\\Scripts\\python.exe"
+}
